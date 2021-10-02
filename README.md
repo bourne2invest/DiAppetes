@@ -1,2 +1,2 @@
 # DiAppetes
-An app eradicate Diabetes
+An app to eradicate Diabetes
